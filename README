@@ -1,0 +1,39 @@
+UBcoursedelete admin report for Moodle
+
+Copyright (C) 2010-2011 Yolanda Ordonez (yordonez@ub.edu)
+Protected by Intellectual Property Registration Priority date: 9th February 2011
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details:
+
+http://www.gnu.org/copyleft/gpl.html
+
+
+UBcoursedelete admin report for Moodle - version 1.0
+===============================================================================
+Created and currently maintained by:
+      Yolanda Ordonez (yordonez@ub.edu)
+
+Developed for Equip Tècnic Campus, Àrea de Tecnologies de la Universitat 
+de Barcelona (Spain).
+Many ideas and code were taken from other Moodle plugins and Moodle itself
+
+Documentation:
+	* see http://github.com/EquipTecnicCampus/moodle-adminreport_ubcoursedelete/manual_ubcoursedelete_en.pdf
+
+Installation:
+    * see http://docs.moodle.org/en/Installing_contributed_modules_or_plugins
+
+List of features - version 1.0:
+    * fully configurable by the administrator
+	* easy to use by teachers (allowed users) within allowed categories
+    * works with all supported databases
+
+yordonez
