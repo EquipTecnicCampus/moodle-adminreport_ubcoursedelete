@@ -25,15 +25,29 @@ Developed for Equip Tècnic Campus, Àrea de Tecnologies de la Universitat
 de Barcelona (Spain).
 Many ideas and code were taken from other Moodle plugins and Moodle itself
 
+Admin Report for Moodle that allows a logical deletion of courses in the platform.
+
+UB Deleted courses is a Moodle plugin developed to allow the logical deletion of 
+courses. It's fully configurable and adjustable so it can reach the needs of many 
+site administrators. It can be configured so only the trusted roles could delete
+(put into quarantine) courses from some or all categories. The administrators can
+set how long the courses will be kept in quarantine before complete deletion and 
+even if they want to keep a backup file for the deleted courses.
+
+The software is in version 1.0; currently used in the Campus Virtual de la 
+Universitat de Barcelona with satisfactory results. The languages available for 
+the current version are: Catalan, Spanish and English.
+
+
 Documentation:
-	* see http://github.com/EquipTecnicCampus/moodle-adminreport_ubcoursedelete/manual_ubcoursedelete_en.pdf
+    * see http://github.com/EquipTecnicCampus/moodle-adminreport_ubcoursedelete/manual_ubcoursedelete_en.pdf
 
 Installation:
     * see http://docs.moodle.org/en/Installing_contributed_modules_or_plugins
 
 List of features - version 1.0:
     * fully configurable by the administrator
-	* easy to use by teachers (allowed users) within allowed categories
+    * easy to use by teachers (allowed users) within allowed categories
     * works with all supported databases
 
 yordonez
